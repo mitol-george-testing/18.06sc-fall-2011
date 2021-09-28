@@ -5,11 +5,11 @@ title: Meet the TAs
 type: page
 uid: 451c7be3-3c2f-f17f-4881-adfa981fc5e7
 ---
+{{< resource 50ce4d8c-ddfa-06b9-c4d8-4f7e03a7e0e7 >}}
+
 « \[Previous\]({{\< baseurl >}}/pages/syllabus) | \[Next\]({{\< baseurl >}}/pages/ax-b-and-the-four-subspaces) »
 
-![A woman in a black coat with a blue necklace stands in front of a pond.](BASEURL_PLACEHOLDER/resources/martina_photo) **Martina** 
-
-  
+![A woman in a black coat with a blue necklace stands in front of a pond.](BASEURL_PLACEHOLDER/resources/martina_photo) **Martina Balagovic**  
 _Hi, I am Martina. By now, I taught linear algebra classes in three universities and in many different flavors. I love algebra, and this is probably my favorite class to teach. It gives students the chance to soar into rigorous, abstract algebraic thinking, while being firmly grounded by its many examples. This way one can reason abstractly and then check one's intuition and reasoning on small, very concrete examples. At the same time, one can explore numerous applications in engineering and computer science. I hope the examples we prepared for you will be useful!_
 
 Martina Balagovic grew up in Zagreb, Croatia. She got her undergraduate degree from the University of Zagreb. She was a graduate student at MIT from 2007, earning a Ph.D. degree in 2011. She is currently a postdoc at the University of York in the UK. She is fascinated by algebra and does research in representation theory.
